@@ -28,7 +28,3 @@ This course has the following software requirements:<br/>
 
 * [Intermediate Laravel: Adding Popular Features to Our Apps [Video]](https://www.packtpub.com/web-development/intermediate-laravel-adding-popular-features-our-apps-video?utm_source=github&utm_medium=repository&utm_campaign=9781788477611)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788473422">https://packt.link/free-ebook/9781788473422 </a> </p>
